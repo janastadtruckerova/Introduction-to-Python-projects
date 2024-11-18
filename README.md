@@ -6,7 +6,9 @@ This repository contains various projects that I completed during the introducto
 Content
 
 "Project. US Medical insurance" - control flow, functions
-"Project Analysis Global AI Index" - using Pandas,Matplotlib, Seaborn libreries
+
+"Project Analysis Global AI Index" - using Pandas,Matplotlib, Seaborn libraries
+
 
 Requirements
 
