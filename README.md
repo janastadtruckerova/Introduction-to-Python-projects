@@ -8,6 +8,7 @@ Content
 "Project. US Medical insurance" - control flow, functions
 
 "Project Analysis Global AI Index" - using Pandas,Matplotlib, Seaborn libraries
+"To do list project"
 
 
 Requirements
